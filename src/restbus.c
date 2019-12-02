@@ -1,15 +1,9 @@
-/*
- * restbus.c
- *
- *  Created on: Sep 12, 2013
- *      Author: benny
- */
 
 /*
  * can_receive.c
  *
  *  Created on: May 2, 2013
- *      Author: benny
+ *      Author: Prajwal
  */
 
 #include "can_config.h"
